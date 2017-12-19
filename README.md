@@ -13,6 +13,9 @@
 
 ## Challenges
 
+
+### Part 1 
+
 1. How would you return all of the rows in the artists table?
   ```SQL
   
@@ -36,34 +39,33 @@
   ```sql
    
   ```
+  
+  
+ ### Part 2
 
-6. Check out the [Faker gem](https://github.com/stympy/faker). `gem install faker`, open up irb, run `require 'faker'` and then generate a fake name for yourself using `Faker::Name.name`. How would you update your name in the fans table to be your new name?
-   ```sql
 
-   ```
-
-7. How would you return fans that are not fans of the black eyed peas.
+6. How would you return fans that are not fans of the black eyed peas.
   ```sql
   
   ```
-8. Display an artists name next to their album title
+7. Display an artists name next to their album title
 ```sql
 
 ```
 
-9. Display artist name, album name and number of tracks on that album
+8. Display artist name, album name and number of tracks on that album
 ```sql
 
 ```
 
-10.  How would you return the name of all of the artists in the 'Pop' Genre
+9.  How would you return the name of all of the artists in the 'Pop' Genre
   ```sql
 
 
   ```
 
 
-11. I want to return the names of the artists and their number of rock tracks
+10. I want to return the names of the artists and their number of rock tracks
  who play Rock music
 and have move than 30 tracks
 in order of the number of rock tracks that they have
@@ -72,3 +74,12 @@ from greatest to least
 ```sql
 
 ```
+
+
+### Part 3 
+
+
+11. Check out the [Faker gem](https://github.com/stympy/faker). `gem install faker`, open up irb, run `require 'faker'` and then generate a fake name for yourself using `Faker::Name.name`. How would you update your name in the fans table to be your new name?
+   ```sql
+
+   ```
