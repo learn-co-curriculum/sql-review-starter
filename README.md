@@ -37,8 +37,10 @@
   ```
 5. How would you add yourself as a fan of the Black Eyed Peas? 
    
+  ```sql 
+
+
   ```
-  
   
  ### Part 2
 
